@@ -1,0 +1,16 @@
+
+{
+    "username": "Mohamed",
+    "passwordValid": "123456",
+    "passwordInvalid": "123",
+    "validEmail":"sagedmohamed21@gmail.com",
+    "emailInvalidFormat": "mohamed",
+    "emailNotExist": "mohamedmohamed@gmail.com",
+    
+    "exisitingPhone":"01143808983",
+    "exisitingEmail":"mm@gmail.com"
+
+
+  
+   }
+  
